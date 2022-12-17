@@ -1,2 +1,3 @@
-# MaturyZadania
-Moje rozwiązania matur
+# Zadania Maturalne - Filip Pietrzak
+
+Moje rozwiązania do zadaniam maturalnych
