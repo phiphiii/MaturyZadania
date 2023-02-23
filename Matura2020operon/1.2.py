@@ -36,7 +36,8 @@ def changeToBinary(num):
 
 wynik = 0
 for x in range(1000000):
-    if ispali(toarray(x)) and ispali(changeToBinary(x)):
-        wynik = wynik + x
+    if x%2==1:
+        if ispali(toarray(x)) and ispali(changeToBinary(x)):
+            wynik = wynik + x
 
 print(wynik)
