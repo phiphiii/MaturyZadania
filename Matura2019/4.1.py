@@ -17,3 +17,4 @@ for x in file:
 
 print(counter)
 
+#Zadanie z błędem
