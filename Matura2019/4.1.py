@@ -17,4 +17,4 @@ for x in file:
 
 print(counter)
 
-#Zadanie z błędem
+#Odpowiedź jest błędna natomiast jest o wina pythona
